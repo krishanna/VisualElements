@@ -1,0 +1,22 @@
+h1 {
+	background-color: orange;
+	opacity: 0.7;
+	color:brown;
+	font-family:cursive;
+
+}
+body {
+  background: radial-gradient(#ffff66, #ffcc99);}
+            
+h2 {text-align:center;
+color:saddlebrown;
+text-shadow: 3px 3px 3px #CCC;
+}
+h3,h4 {color:saddlebrown;}
+li {letter-spacing:3px;
+color: teal;}
+.sweet-potato-pie { width: 300px;
+	height: 400px;
+	
+
+ }

@@ -1,0 +1,49 @@
+
+body {
+  background: radial-gradient(#ffff66, #ffcc99);}
+
+
+h1 { background-color: #FF99FF;
+opacity: 0.2;
+font-size: 7em;
+padding: 10px; 
+text-align: center;
+text-shadow: 8px 8px 8px #CCC;}  
+
+.fall-leaves {
+float:left;
+height:450px;
+width:520px;
+margin-top:10px;
+margin-left:8px;
+margin-right:5px;
+margin-bottom:5px;
+
+}
+#leaves > img {
+height:450px;
+width:520px;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+float:right;
+}
+#fall >img {
+	height: 450px;
+	width: 520px;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+	float: left;
+}
+ #large-red-tree >img {
+	height: 450px;
+	width: 520px;
+	float: right;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+}
